@@ -151,3 +151,8 @@ The bot operates by:
 6.  **Sending Notifications**: Based on the parsing results, the bot crafts a message and sends it to the Discord channel where the `!start` command was issued.
 7.  **Loop Control**: The `!stop` command halts the monitoring loop.
 
+---
+
+## Picture
+
+<img src="/Pictures/botMessages.png" alt="Bot Message"><br>
