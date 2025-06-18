@@ -15,6 +15,7 @@ A Discord bot written in Python that monitors the stock of a specified item on a
 -   [Bot Commands](#bot-commands)
 -   [Configuration](#configuration)
 -   [How it Works](#how-it-works)
+-   [Picture](#picture)
 
 ---
 
@@ -155,4 +156,7 @@ The bot operates by:
 
 ## Picture
 
+Discord channel:
 <img src="/Pictures/botMessages.png" alt="Bot Message"><br>
+Terminal:
+<img src="/Pictures/terminal.png" alt="Terminal"><br>
