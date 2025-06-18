@@ -156,7 +156,7 @@ The bot operates by:
 
 ## Picture
 
-Discord channel:
-<img src="/Pictures/botMessages.png" alt="Bot Message"><br>
 Terminal:
 <img src="/Pictures/terminal.png" alt="Terminal"><br>
+Discord channel:
+<img src="/Pictures/botMessages.png" alt="Bot Message"><br>
